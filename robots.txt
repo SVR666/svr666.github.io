@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://svr666.github.io/sitemap-1.xml
